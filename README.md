@@ -7,3 +7,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/вячеслав-5a5495241)
 [![Facebook](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/sinnikovvyacheslav)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selarahl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
