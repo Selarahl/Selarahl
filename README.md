@@ -1,4 +1,5 @@
-### Hi there 👋
+### Привет
+#### Я Вячеслав Синников, начинающий програмист на Java 
 
 <!--
 **Selarahl/Selarahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
