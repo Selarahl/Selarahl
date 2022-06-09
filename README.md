@@ -3,6 +3,7 @@
 ### Привет!
 #### Я Синников Вячеслав, начинающий разработчик на Java.
 
-Follow my
+### Follow my
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/вячеслав-5a5495241)
+[![Facebook](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/sinnikovvyacheslav)
