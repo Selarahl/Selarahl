@@ -4,3 +4,5 @@
 #### Я Синников Вячеслав, начинающий разработчик на Java.
 
 Follow my
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)
