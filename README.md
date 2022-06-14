@@ -1,4 +1,4 @@
-[![Header](https://github.com/Selarahl/Selarahl/blob/main/assets/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8.png)](https://www.linkedin.com/in/%D0%B2%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2-5a5495241/)
+[![Header](https://github.com/Selarahl/Selarahl/blob/main/assets/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8.png)](https://docs.google.com/document/d/1pmaRApqghssrAn9WH_f1JFGXwg6jk_pEnktWWY7ATZE/edit#heading=h.5azv3ly4o3em)
 
 ### Привет!
 #### Я Синников Вячеслав, начинающий разработчик на Java.
